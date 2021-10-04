@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(29, 28, 29);
+}
+
+.mainDiv {
+    margin: auto;
+    color: aliceblue;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(19, 18, 18);
+    opacity: 88%;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+#inp1 {
+    border-radius: 25px;
+    border: 2px solid rgb(200, 113, 243);
+    padding: 20px;
+    width: 280px;
+    height: 15px;
+}
+
+#inp2 {
+    border-radius: 25px;
+    border: 2px solid rgb(200, 113, 243);
+    padding: 20px;
+    width: 280px;
+    height: 15px;
+}
+
+h3 {
+    float: center;
+    color: rgb(248, 242, 242);
+}
+
+.card:hover {
+    box-shadow: 5px 6px 30px rgb(52, 152, 245)
+}
